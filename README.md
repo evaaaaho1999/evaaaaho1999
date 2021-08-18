@@ -1,7 +1,7 @@
 # My GitHub Profile :book: 
 [<img height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
-[linkedin]: (www.linkedin.com/in/i-hua-ho)
+[linkedin]:https://www.linkedin.com/in/i-hua-ho/
 - 👋 Hi, I’m @evaaaaho1999
 - 👀 I’m interested in Business Analytics, Data Sciences, and anything new and Fun!
 - 🌱 I’m currently learning Business Analytics
