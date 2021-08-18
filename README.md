@@ -1,5 +1,5 @@
 # My GitHub Profile :book: 
-[<img align="left" height="22px" src="https://i.imgur.com/2RDR3kq.png" />][linkedin]
+[<img height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/i-hua-ho
 - 👋 Hi, I’m @evaaaaho1999
