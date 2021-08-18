@@ -1,7 +1,7 @@
 # My GitHub Profile :book: 
 ###### tags: `SMU` `MSBA` `NTHU` `DATA Science` `Business Analytics` `Quantitative Finance`
 
-> Hi everyone! This is Eva 
+> Hi everyone! This is Eva \n
 > Welcome to my GitHub Homepage :smile: 
 
 >I was an NTHU quantitative finance & data science student from Taiwan and now I am in US :us: and become the graduate student at SMU MSBA. I am interested in data science, business analytics, data visualization, statistic, and machine learning. I love traveling, cooking and hanging out with my friends and family :family: !
