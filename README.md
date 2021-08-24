@@ -10,6 +10,11 @@
 ## Connect with me :link: 
 [<img align="left" alt="evaaaaho1999 | Linkedin" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="evaaaaho1999 | Linkedin" height="22px" src="https://i.imgur.com/zaLHZR2.png" />][facebook]
+
+<p align=center>
+<em>Don't hesitate to get in touch!</em>
+</p>
+
 ## GitHub Statistic:
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=evaaaaho1999&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
