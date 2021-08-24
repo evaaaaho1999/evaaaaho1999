@@ -10,12 +10,12 @@
 ## Connect with me :link: 
 [<img align="left" alt="evaaaaho1999 | Linkedin" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="evaaaaho1999 | Linkedin" height="22px" src="https://i.imgur.com/zaLHZR2.png" />][facebook]
-
+[<img align="left" alt="evaaaaho1999 | Linkedin" height="22px" src="https://i.imgur.com/7A5jvog.png" />][gmail]
 
 
 [linkedin]:https://www.linkedin.com/in/i-hua-ho/
 [facebook]:https://www.facebook.com/profile.php?id=100004279383752
-
+[gmail]:evaho880117@gmail.com
 
 <!---
 evaaaaho1999/evaaaaho1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
