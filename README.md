@@ -7,6 +7,13 @@
 
 >I was an NTHU quantitative finance & data science student from Taiwan and now I am in US :us: and become the graduate student at SMU MSBA. I am interested in data science, business analytics, data visualization, statistic, and machine learning. I love traveling, cooking and hanging out with my friends and family :family: !
 
+
+## My Values
+:bulb: Creativity
+❤ Passion
+🌻 Thriving
+🙌 Solidarity
+
 ## Connect with me :link: 
 [<img align="left" alt="evaaaaho1999 | Linkedin" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="evaaaaho1999 | Linkedin" height="22px" src="https://i.imgur.com/zaLHZR2.png" />][facebook]
