@@ -1,12 +1,13 @@
 # My GitHub Profile :book: 
-###### tags: `SMU` `MSBA` `NTHU` `DATA Science` `Business Analytics` `Quantitative Finance`
+###### tags: `SMU` `MSBA` `NTHU` `DATA Science` `Business Analytics` `Business Intellegence` `Data Analytics` `Quantitative Finance`
 
-> Hi everyone! This is Eva! 
-
+> Hi everyone! This is Eva 
 > Welcome to my GitHub Homepage :smile: 
 
->I am the graduate student at SMU MS Business Analytics :us:. Majored in quantitative finance & data science in my undergraduate studies. I am interested in data science, business analytics, Business Intellegence, data visualization, statistic, and machine learning. I am a huge traveling enthusiast :heart_eyes:
+>I am now a student in Masters of Science in Business Analytics from SMU Cox School of Business:us:.I have background in Finance, Programming, Statistics and Mathematics. I graduated from National Tsing Hua University and was majored in quantitative finance & data science. 
 
+>I have a developed skill in Statistical Modeling and Prediction modeling in R (Which are the works in Time Series, Applied Multivariate Analysis repositories), Machine Learning and Text mining in Python (The works in Special-Topics-on-Financial-Engineering and Text mining repositories), SQL, AWS, Tableau,and BI tools.
+My passion lies in solving challenges using data! I am also a huge traveling enthusiast :heart_eyes:
 
 ## My Values
 :bulb: Creativity
