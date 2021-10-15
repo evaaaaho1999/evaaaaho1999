@@ -2,6 +2,7 @@
 ###### tags: `SMU` `MSBA` `NTHU` `DATA Science` `Business Analytics` `Business Intellegence` `Data Analytics` `Quantitative Finance`
 
 > Hi everyone! This is Eva 
+> 
 > Welcome to my GitHub Homepage :smile: 
 
 >I am now a student in Masters of Science in Business Analytics from SMU Cox School of Business:us:.I have background in Finance, Programming, Statistics and Mathematics. I graduated from National Tsing Hua University and was majored in quantitative finance & data science. 
