@@ -5,7 +5,7 @@
 
 > Welcome to my GitHub Homepage :smile: 
 
->I was an NTHU quantitative finance & data science student from Taiwan and now I am in US :us: and become the graduate student at SMU MSBA. I am interested in data science, business analytics, data visualization, statistic, and machine learning. I love traveling, cooking and hanging out with my friends and family :family: !
+>I am the graduate student at SMU MS Business Analytics :us:. Majored in quantitative finance & data science in my undergraduate studies. I am interested in data science, business analytics, Business Intellegence, data visualization, statistic, and machine learning. I am a huge traveling enthusiast :heart_eyes:
 
 
 ## My Values
