@@ -5,7 +5,7 @@
 > 
 > Welcome to my GitHub Homepage :smile: 
 
->I am now a student in Masters of Science in Business Analytics from SMU Cox School of Business:us:.I have background in Finance, Programming, Statistics and Mathematics. I graduated from National Tsing Hua University and was majored in quantitative finance & data science. 
+>I am now a student in Masters of Science in Business Analytics from SMU Cox School of Business :us:.I have background in Finance, Programming, Statistics and Mathematics. I graduated from National Tsing Hua University and was majored in quantitative finance & data science. 
 
 >I have a developed skill in Statistical Modeling and Prediction modeling in R (Which are the works in Time Series, Applied Multivariate Analysis repositories), Machine Learning and Text mining in Python (The works in Special-Topics-on-Financial-Engineering and Text mining repositories), SQL, AWS, Tableau,and BI tools.
 My passion lies in solving challenges using data! I am also a huge traveling enthusiast :heart_eyes:
